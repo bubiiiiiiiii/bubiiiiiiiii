@@ -1,6 +1,6 @@
 # Hi there, I'm bubiiiiiiiii! 😎
 
-![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=bubiiiiiiiii&fontSize=50&animation=fadeIn)
+![Profile Banner](banner.jpg)
 
 ## 👨‍🎓 About Me
 I'm a student passionate about coding, curious about the web, and always eager to learn something new.
