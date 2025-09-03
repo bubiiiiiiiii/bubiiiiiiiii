@@ -16,7 +16,7 @@ I’m just getting started, so stay tuned for cool projects in the future!
 
 ![bubiiiiiiiii's GitHub stats](https://github-readme-stats.vercel.app/api?username=bubiiiiiiiii&show_icons=true&theme=tokyonight)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=bubiiiiiiiii)](https://git.io/streak-stats)
+https://github.com/anuraghazra/github-readme-stats.git
 ---
 
 *Thanks for stopping by!*
